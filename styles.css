@@ -1,0 +1,26 @@
+body{
+    background-image: url("https://cdn.pixabay.com/photo/2021/03/15/17/35/garden-6097539_1280.png ");
+
+    background-repeat: no-repeat;
+    background-size: 1500px 1000px; 
+    position: absolute; 
+    top: 250px;
+    left: 550px;
+
+}
+#guessinput{
+    height: 30px;
+    width: 300px;
+    border: 3px solid black;
+}
+#btn{
+    height: 30px;
+    width: 100px;
+    border: 2px solid black;
+    background-color: #45D38E;
+}
+#hr{
+    color: black;
+}
+
+
